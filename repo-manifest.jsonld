@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/tox-dev/pyproject-api/commit/0ba9f70ba141f29257455caa0cf2429170c5d99e",
       "git:hexsha": "0ba9f70ba141f29257455caa0cf2429170c5d99e",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "1.11.5"
     },
     {
