@@ -1,0 +1,7 @@
+[2026-11-22T00:56:20Z] === AST ITERATION 1 START | repo=tox-dev/pyproject-api sha=8f9ed33d ===
+[2026-11-22T00:56:20Z] [iter=1] PHASE START: ast repo=tox-dev/pyproject-api sha=8f9ed33d
+[2026-11-22T00:56:20Z] [iter=1] Building AST aggregate chunks
+[2026-11-22T00:56:26Z] [iter=1] AST chunks built count=1 triples=88900
+[2026-11-22T00:56:26Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/8f9ed33d4e7942f4be1a9eaa98c71a158b90a33e/.complete
+[2026-11-22T00:56:26Z] [iter=1] PHASE END: ast elapsed_s=6 elapsed_min=0.1
+[2026-11-22T00:56:26Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
