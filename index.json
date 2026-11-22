@@ -3,6 +3,11 @@
   "repo": "pyproject-api",
   "versions": [
     {
+      "commit": "8f9ed33d4e7942f4be1a9eaa98c71a158b90a33e",
+      "tag": "1.10.0",
+      "parsed_at": "2026-11-22T01:01:42.097657+00:00"
+    },
+    {
       "commit": "0ba9f70ba141f29257455caa0cf2429170c5d99e",
       "tag": "1.11.5",
       "parsed_at": "2026-10-10T22:14:40.682807+00:00"
